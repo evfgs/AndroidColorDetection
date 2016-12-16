@@ -2,39 +2,58 @@
 <items version="2" >
 
     <item
-        jar="E:\OpenCVTest\OpenCVTutorial\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="E:\OpenCVTest\OpenCVTutorial\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_75709c4ee3f81c4314a7c0dc9437f27e11889fca.jar" />
-    </item>
-    <item
-        jar="E:\OpenCVTest\OpenCVTutorial\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="E:\OpenCVTest\OpenCVTutorial\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.0_f372c3331203ccfa1f00e16cfcffdc17f36377b3.jar" />
-    </item>
-    <item
-        jar="E:\OpenCVTest\OpenCVTutorial\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\emanu\Desktop\android\ColorDetection\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
         revision="22.0.1"
         sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="E:\OpenCVTest\OpenCVTutorial\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.0_9cbd8e64936409523c20f68887234be6130ecca7.jar" />
+        <dex dex="C:\Users\emanu\Desktop\android\ColorDetection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.0_ef4af760156e73154918338711e137cc9ec1c817\classes.dex" />
     </item>
     <item
-        jar="E:\OpenCVTest\OpenCVTutorial\app\build\intermediates\exploded-aar\OpenCVTutorial.libraries\opencv\unspecified\jars\classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\emanu\Desktop\android\ColorDetection\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
         revision="22.0.1"
-        sha1="2a5253bf6afcece45ccd4d1b3fb4677ddf9e6689">
-        <dex dex="E:\OpenCVTest\OpenCVTutorial\app\build\intermediates\pre-dexed\debug\OpenCVTutorial.libraries-opencv-unspecified_869a0cfb23391212e377ac7d432584b2358b902d.jar" />
+        sha1="1570d25d584259b2fb7ae456c0f660d8322fd7c0">
+        <dex dex="C:\Users\emanu\Desktop\android\ColorDetection\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_cae06e4374fc6ac69768916d276b3c6a78f53abf\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Emanuel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\emanu\Desktop\android\ColorDetection\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\emanu\Desktop\android\ColorDetection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.0_b5a19909852888ed8abe08585623763ba0c47a03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emanu\Desktop\android\ColorDetection\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ee6bb2853405b02f5780b0fbba27f74da892cd1d">
+        <dex dex="C:\Users\emanu\Desktop\android\ColorDetection\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1590e1e744de0d2be6c58ff1a5fe22edca51c7a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emanu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
         revision="22.0.1"
         sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="E:\OpenCVTest\OpenCVTutorial\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_d984c999ae6274acbf8f535521073e6f37fc1564.jar" />
+        <dex dex="C:\Users\emanu\Desktop\android\ColorDetection\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.0_7d790a1f505ec0504c4b3b6fb79aba2846567e6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\emanu\Desktop\android\ColorDetection\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\emanu\Desktop\android\ColorDetection\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_505ad376080b881f4ac31e4783cbbd9af0945b5b\classes.dex" />
     </item>
 
 </items>
